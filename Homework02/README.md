@@ -1,3 +1,17 @@
+TABLE OF CONTENTS:
+INSTALLATION
+USAGE
+CREDITS
+
+INSTALATION
+LINK TO WEBSITE:  
+LINK TO REPO: https://github.com/krather7/Homework02PortfolioKFR
+
+
+
+
+#ASSIGNMENT REQUIREMENTS
+
 # 02 Advanced CSS: Portfolio
 
 ## Your Task
